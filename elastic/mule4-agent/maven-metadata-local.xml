@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>elastic</groupId>
+  <artifactId>mule4-agent</artifactId>
+  <versioning>
+    <release>ARTIFACT-0.4.0</release>
+    <versions>
+      <version>ARTIFACT-0.4.0</version>
+    </versions>
+    <lastUpdated>20230210122618</lastUpdated>
+  </versioning>
+</metadata>
